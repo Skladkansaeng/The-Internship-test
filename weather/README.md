@@ -1,5 +1,5 @@
 # The-Internship-test
-ืชิ่อ เศรษฐการณ์ กลัดกันแสง
+ชิ่อ เศรษฐการณ์ กลัดกันแสง
 E-mail settakarn.beam2540@gmail.com
 โทร 0882657187
 
